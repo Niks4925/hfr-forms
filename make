@@ -4,7 +4,7 @@
 [fixed][url=coller ici l'url du post (voir explications plus bas)]$pseudo$ : Nom du projet[/url][/fixed]  
   
 ***  
-<= Ceci est le code que je n'ai en théorie qu'à copier-coller en première page pour répertorier le projet. Il faut retirer les astérisques dans la balise fixed pour qu'elle fonctionne. Le lien correspond au lien vers le post que l'on peut obtenir en cliquant droit sur l'icône qui ressemble à une feuille de papier à droite de votre pseudo sur le post en question et faisant copier l'adresse du lien. Renseignez aussi le nom du projet et votre nom de membre.  
+<= Ceci est le code que je n'ai en théorie qu'à copier-coller en première page pour répertorier le projet. Le lien correspond au lien vers le post que l'on peut obtenir en cliquant droit sur l'icône qui ressemble à une feuille de papier à droite de votre pseudo sur le post en question et faisant copier l'adresse du lien. Renseignez aussi le nom du projet.  
 ***   
   
 [b][u]Nom du projet [/u][/b]  
